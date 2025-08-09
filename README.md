@@ -110,7 +110,7 @@ Open the notebooks in Jupyter Notebook or VS Code and run cells sequentially.
 
 ## License
 
-Originally created for educational use as part of the University of Michigan SI 618 course.
+This repository is licensed under the MIT License.
 
 ---
 
