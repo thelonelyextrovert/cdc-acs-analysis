@@ -1,0 +1,28 @@
+Column Name,Label
+GEO_ID,Geography
+NAME,Geographic Area Name
+S1701_C01_001E,Total
+S1701_C01_011E,T_ Male
+S1701_C01_012E,T_ Female
+S1701_C01_014E,T_ African American
+S1701_C01_015E,T_ American Indian/Alaska Native
+S1701_C01_016E,T_ Asian
+S1701_C01_017E,T_ Hawaiian/ Pacific Islander
+S1701_C01_019E,T_ Two or more races
+S1701_C01_018E,T_ Other race
+S1701_C01_020E,T_ Hispanic or Latino
+S1701_C01_021E,T_ White
+S1701_C02_001E,BP_Total
+S1701_C02_011E,BP_ Male
+S1701_C02_012E,BP_ Female
+S1701_C03_014E,BP_ African American%
+S1701_C03_016E,BP_ Asian%
+S1701_C03_019E,BP_ Two or more races%
+S1701_C03_020E,BP_ Hispanic or Latino%
+S1701_C03_021E,BP_ White%
+S1901_C01_001E,T_Households
+S1901_C01_002E,Households<$10k
+S1901_C01_011E,Households>$200k
+S1901_C01_012E,Median income
+S1901_C01_013E,Mean income
+S1701_C03_001E,BP_ Total%
